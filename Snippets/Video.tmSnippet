@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;video src="http://www.url.mp4" autoplay controls="true" height="" width="" poster="" preload="none"&gt;
+your browser does not support the video tag
+&lt;/video&gt;</string>
+	<key>name</key>
+	<string>Video</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>video</string>
+	<key>uuid</key>
+	<string>0F212922-6AB2-4186-9B48-7355C0EF6D88</string>
+</dict>
+</plist>

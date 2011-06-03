@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;time datetime="2009-11-06T08:30+01:00"&gt;$1&lt;/time&gt;$0</string>
+	<key>name</key>
+	<string>time</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>time</string>
+	<key>uuid</key>
+	<string>7B3ACFE1-0B1B-4486-96DA-DD38C423F1CF</string>
+</dict>
+</plist>
