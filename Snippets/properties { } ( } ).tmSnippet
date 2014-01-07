@@ -3,18 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script type="text/javascript"&gt;
-  \$(function() {
-    $0
-  });
-&lt;/script&gt;</string>
+	<string>{
+	$1
+}</string>
 	<key>name</key>
-	<string>jQuery block</string>
+	<string>properties { } ( } )</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>source.scss</string>
 	<key>tabTrigger</key>
-	<string>jquery</string>
+	<string>{</string>
 	<key>uuid</key>
-	<string>0C6177C5-61B5-4174-8037-36333AA6B2A5</string>
+	<string>DD716FAA-6CD7-4965-B9ED-A20219268919</string>
 </dict>
 </plist>

@@ -3,18 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script type="text/javascript"&gt;
-  \$(function() {
-    $0
-  });
-&lt;/script&gt;</string>
+	<string>&lt;section${1: id="${2:name}"}&gt;
+	${3:$TM_SELECTED_TEXT}
+&lt;/section&gt;</string>
 	<key>name</key>
-	<string>jQuery block</string>
+	<string>section</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>jquery</string>
+	<string>section</string>
 	<key>uuid</key>
-	<string>0C6177C5-61B5-4174-8037-36333AA6B2A5</string>
+	<string>A5B0C4D5-4404-4F6C-AF91-9F73792A5C7D</string>
 </dict>
 </plist>
